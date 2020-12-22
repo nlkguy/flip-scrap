@@ -18,7 +18,7 @@ def url_get():
 
 #------------------------------------------------------------------------------
 
-page_url = str(url_get()) # calling url_get function from urlgetfunc.py
+page_url = str(url_get()) # calling url_get()
 page_open = urlopen(page_url) 
 page_html = page_open.read()
 page_open.close()
