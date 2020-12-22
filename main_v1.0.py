@@ -1,5 +1,5 @@
 # Flipkart - Web Scrapping program - Nandulal Krishna @nlkguy
-
+#version 1.0
 from bs4 import BeautifulSoup as soup
 from urllib.request import urlopen
 import itertools
