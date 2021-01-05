@@ -1,4 +1,4 @@
-# Flipkart - Web Scrapping program - Nandulal Krishna
+# Flipkart-Web Scrapping program
 
 #------------------------------------------------------------------------------
 from bs4 import BeautifulSoup as soup
